@@ -1,0 +1,27 @@
+{
+  "name": "fietsitent",
+  "version": "0.0.1",
+  "description": "smart urban biking demo",
+  "main": "app.js",
+  "dependencies": {
+    "node-wit": "^4.1.0",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heinzehavinga/fietsitent.git"
+  },
+  "keywords": [
+    "20creathon"
+  ],
+  "author": "Heinze Havinga",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/heinzehavinga/fietsitent/issues"
+  },
+  "homepage": "https://github.com/heinzehavinga/fietsitent#readme"
+}
